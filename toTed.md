@@ -2,6 +2,7 @@ Hey ted!
 # UI Requirements
 - Page changes are not allowed, but different components may be stored in different files for development purposes.
 - Do not include images for UI elements. Images may be included for Album covers or logos. Custom fonts (e.g. Google Material Icons) are fine.
+- Full WCAG 2.2 AA compliance or higher
 ## Onscreen at all times:
 - Button to play/pause
 - Buttons to skip or go/back songs
