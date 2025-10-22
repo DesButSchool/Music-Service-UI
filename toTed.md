@@ -1,8 +1,10 @@
 Hey ted!
+Remember, you don't have to make any logic, just layout and style.
 # UI Requirements
 - Page changes are not allowed, but different components may be stored in different files for development purposes.
 - Do not include images for UI elements. Images may be included for Album covers or logos. Custom fonts (e.g. Google Material Icons) are fine.
-- Full WCAG 2.2 AA compliance or higher
+- Full WCAG 2.2 AA compliance or higher (Dw too much, we can fix issues as they come up)
+- No ```<form>``` elements
 ## Onscreen at all times:
 - Button to play/pause
 - Buttons to skip or go/back songs
@@ -15,3 +17,6 @@ Hey ted!
 - List all songs in an album or playlist
 - Reorder songs in playlist
 - Add currently selected playlist/album to queue 
+- Button to create new playlist
+- Button to delete playlist
+- Search bar
