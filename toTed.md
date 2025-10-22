@@ -12,11 +12,13 @@ Remember, you don't have to make any logic, just layout and style.
 - Button to skip 5s and -5s
 - Button to open/close queue
 - Ability to reorder songs in queue 
+- Button to play queue shuffled
 ## Song list
 - List all availible songs
 - List all songs in an album or playlist
 - Reorder songs in playlist
-- Add currently selected playlist/album to queue 
+- Button to add currently selected playlist/album to queue 
 - Button to create new playlist
 - Button to delete playlist
 - Search bar
+- Buttton to add currently selected playlist/album suffled to queue
